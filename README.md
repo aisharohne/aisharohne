@@ -1,7 +1,7 @@
 <h1> 👋 Hi, I’m Aisha Isack </h1>
 <h3> - Web Developer. </h3>
 <ul>
-<li>👯‍♀️ I'm looking to collaborate and communication with web developers </li>
+<li>👯‍♀️ I'm looking to collaborate and communication with web developers in order to learn more and enhance my skills! </li>
 </ul>
 <br>
 <ul>
